@@ -1,4 +1,3 @@
-﻿# Speech-Emotion-Recognization
 # Audio Emotion Classification Project
 
 This project implements an end-to-end workflow for classifying the emotional tone of audio recordings, particularly focusing on customer service calls. It encompasses data loading, preprocessing, feature extraction, model training, and deployment with a feedback loop for continuous improvement.
